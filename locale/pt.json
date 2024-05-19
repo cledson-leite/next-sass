@@ -1,0 +1,10 @@
+{
+    "variables": {
+        "title": "Titulo Variaveis",
+        "subtitle": "Subtitulo Variaveis"
+    },
+
+    "toggleLang": {
+        "title": "Seletor de Temas com Sass"
+    }
+}
